@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>A Journey For Josh 💙</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- Background Stars -->
+    <div id="stars"></div>
+
+    <!-- ================= IDENTITY ================= -->
+
+    <section id="identity">
+
+        <div class="card">
+
+            <h1>🌌</h1>
+
+            <h2>Before We Begin...</h2>
+
+            <p>
+                This journey was created for someone special.
+            </p>
+
+            <input
+                id="username"
+                type="text"
+                placeholder="Enter your first name">
+
+            <button id="continueBtn">
+                Continue
+            </button>
+
+            <p id="message"></p>
+
+        </div>
+
+    </section>
+
+    <!-- ================= LOADING ================= -->
+
+    <section id="loading" class="hidden">
+
+        <div class="loader">
+
+            <h2>
+                Verifying Identity...
+            </h2>
+
+            <div class="progress">
+
+                <div id="bar"></div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ================= OPENING SCENE ================= -->
+
+    <section id="landing" class="hidden">
+
+        <div class="hero">
+
+            <p id="story" class="story">
+                Every star has a story...
+            </p>
+
+            <h1 id="birthdayTitle" class="hidden">
+                Happy Birthday<br>
+                Josh 💙
+            </h1>
+
+            <button id="beginJourney" class="hidden">
+                Begin The Journey →
+            </button>
+
+        </div>
+
+    </section>
+
+    <!-- ================= COUNTDOWN ================= -->
+
+    <section id="countdownScene" class="hidden">
+
+        <div class="countdown-card">
+
+            <h2 class="count-title">
+                The Wait Is Almost Over
+            </h2>
+
+            <div class="count-grid">
+
+                <div class="time-box">
+
+                    <h1 id="hours">00</h1>
+
+                    <span>Hours</span>
+
+                </div>
+
+                <div class="time-box">
+
+                    <h1 id="minutes">00</h1>
+
+                    <span>Minutes</span>
+
+                </div>
+
+                <div class="time-box">
+
+                    <h1 id="seconds">00</h1>
+
+                    <span>Seconds</span>
+
+                </div>
+
+            </div>
+
+            <button
+                id="continueLetter"
+                class="hidden">
+
+                Continue →
+
+            </button>
+
+        </div>
+
+    </section>
+
+    <!-- ================= LOVE LETTER ================= -->
+
+    <section id="letterScene" class="hidden">
+
+        <div class="letter-card">
+
+            <h2>For Odogwu Josh 💙</h2>
+
+            <div id="typewriter"></div>
+
+            <span id="cursor">|</span>
+
+            <button
+                id="openGallery"
+                class="hidden">
+
+                Open Memory Gallery →
+
+            </button>
+
+        </div>
+
+    </section>
+
+        <!-- ================= MEMORY GALLERY ================= -->
+
+<section id="galleryScene" class="hidden">
+
+    <div class="gallery-card">
+
+        <img
+            id="galleryImage"
+            src="assets/images/photo1.jpg"
+            alt="Josh">
+
+        <p id="galleryCaption">
+            One of many memories worth celebrating. 💙
+        </p>
+
+        <div class="gallery-controls">
+
+            <button id="prevPhoto">
+                ← Previous
+            </button>
+
+            <button id="nextPhoto">
+                Next →
+            </button>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="finalScene" class="hidden">
+
+    <div class="hero">
+
+        <h1 id="finalText">
+
+            Happy Birthday Josh 💙
+
+        </h1>
+
+        <p id="credits">
+
+            Made with 💙 by Sylvie 💓
+
+        </p>
+
+        <canvas id="fireworks"></canvas>
+
+    </div>
+
+</section>
+<script src="js/music.js"></script>
+<script src="script.js"></script>
+</body>
+
+</html>
