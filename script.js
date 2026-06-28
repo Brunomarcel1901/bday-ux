@@ -292,40 +292,17 @@ continueLetter.onclick = () => {
 
 const letter = `Dear Josh,
 
-Happy Birthday, my friend. 💙
+Happy birthday, Joshhh 🎉🥳
 
-First of all...
+Look at you leveling up another year 😂🎂 I hope you have an amazing day filled with
+good vibes, good food, and everything that makes you happy.
 
-Congratulations on surviving another year of my wahala. 😂
+I’m really glad I got to know you. You’re honestly a fun person to have around,
+and I hope this new year brings you more wins, more laughter, and plenty of reasons to smile.
 
-Seriously though...
+Enjoy your day, chico rather old man 🤭 (you getting older😂)
 
-Today isn't just another date.
-
-It's another reminder that the world became a better place the day you arrived.
-
-Thank you for every laugh...
-
-Every conversation...
-
-Every encouragement...
-
-And every memory.
-
-As you begin another year, I pray that God continues to guide your steps, bless your dreams, protect your journey and give you peace that surpasses understanding.
-
-Never stop believing in yourself.
-
-Your best days are still ahead.
-
-Keep smiling.
-
-Keep growing.
-
-Keep being the amazing person you are.
-
-Happy Birthday once again, Josh.
-
+Happy birthday once again 🥳✨
 — Sylvie 💓`;
 
 function startLetter(){
