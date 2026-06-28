@@ -149,7 +149,7 @@ const storyLines = [
 
     "Every journey has a beginning...",
 
-    "Tonight, we celebrate yours."
+    "Today, we celebrate yours."
 
 ];
 
