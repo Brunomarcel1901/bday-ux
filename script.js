@@ -90,7 +90,7 @@ function verifyUser() {
 
     const name = input.value.trim().toLowerCase();
 
-    if (name === "josh") {
+    if (name === "essam") {
 
         identity.classList.add("hidden");
 
@@ -232,7 +232,7 @@ function startCountdown() {
     timerStarted = true;
 
     // CHANGE THIS TO JOSH'S BIRTHDAY
-    const birthday = new Date("2026-06-28T00:00:00");
+    const birthday = new Date("2026-09-08T00:00:00");
 
     updateCountdown();
 
@@ -290,9 +290,9 @@ continueLetter.onclick = () => {
 
 };
 
-const letter = `Dear Josh,
+const letter = `Dear Essam,
 
-Happy birthday, Joshhh 🎉🥳
+Happy birthday, Essam 🎉🥳
 
 Look at you leveling up another year 😂🎂 I hope you have an amazing day filled with
 good vibes, good food, and everything that makes you happy.
