@@ -232,7 +232,7 @@ function startCountdown() {
     timerStarted = true;
 
     // CHANGE THIS TO JOSH'S BIRTHDAY
-    const birthday = new Date("2026-09-08T00:00:00");
+    const birthday = new Date("2026-09-05T13:03:30");
 
     updateCountdown();
 
@@ -303,7 +303,7 @@ and I hope this new year brings you more wins, more laughter, and plenty of reas
 Enjoy your day, chico rather old man 🤭 (you getting older😂)
 
 Happy birthday once again 🥳✨
-— Ry Baby💓`;
+— RyBaby💓`;
 
 function startLetter(){
 
