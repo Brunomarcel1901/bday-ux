@@ -232,7 +232,7 @@ function startCountdown() {
     timerStarted = true;
 
     // CHANGE THIS TO JOSH'S BIRTHDAY
-    const birthday = new Date("2026-09-05T13:03:30");
+    const birthday = new Date("2026-09-05T13:45:30");
 
     updateCountdown();
 
@@ -345,17 +345,17 @@ function startLetter(){
 const photos = [
 
 {
-image:"assets/images/photo1.jpg",
+image:"assets/images/IMG-20260903-WA0095.jpg",
 caption:"Every friendship begins with one unforgettable moment."
 },
 
 {
-image:"assets/images/photo2.jpg",
+image:"assets/images/IMG-20260903-WA0096.jpg",
 caption:"A smile that makes every day brighter."
 },
 
 {
-image:"assets/images/photo3.jpg",
+image:"assets/images/IMG-20260903-WA0094.jpg",
 caption:"Proof that the best memories are the simplest ones."
 },
 
