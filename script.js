@@ -251,7 +251,7 @@ function startCountdown() {
             secondsText.innerHTML = "00";
 
             document.querySelector(".count-title").innerHTML =
-                "🎉 Happy Birthday Josh!";
+                "🎉 Happy Birthday Essam!";
 
             continueLetter.classList.remove("hidden");
             continueLetter.classList.add("fadeIn");
