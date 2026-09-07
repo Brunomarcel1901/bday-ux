@@ -232,7 +232,7 @@ function startCountdown() {
     timerStarted = true;
 
     // CHANGE THIS TO JOSH'S BIRTHDAY
-    const birthday = new Date("2026-09-08T00:00:00");
+    const birthday = new Date("2026-09-07T08:33:00");
 
     updateCountdown();
 
