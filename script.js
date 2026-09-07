@@ -360,12 +360,12 @@ caption:"Proof that the best memories are the simplest ones."
 },
 
 {
-image:"assets/images/photo4.jpg",
+image:"assets/images/IMG-20260905-WA0046.jpg",
 caption:"One more chapter in an amazing journey."
 },
 
 {
-image:"assets/images/photo5.jpg",
+image:"assets/images/IMG-20260905-WA0047.jpg",
 caption:"Here's to the laughter we'll never forget."
 },
 
@@ -375,7 +375,7 @@ caption:"Another memory worth holding onto forever."
 },
 
 {
-image:"assets/images/photo7.jpg",
+image:"assets/images/IMG-20260905-WA0045.jpg",
 caption:"Some moments deserve to last a lifetime."
 },
 
