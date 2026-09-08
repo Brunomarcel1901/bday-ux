@@ -292,13 +292,18 @@ continueLetter.onclick = () => {
 
 const letter = `Happy birthday, my love ❤️
 
-Even though miles separate us today, I want you to close your eyes and imagine my arms wrapped tightly around you, my lips against yours, and all the love I’m carrying for you crossing every distance between us.
+Even though miles separate us today, I want you to close your eyes and imagine my arms wrapped tightly around you, 
+my lips against yours, and all the love I’m carrying for you crossing every distance between us.
 
-You have this incredible way of making my heart race even when you’re nowhere near me. I miss your touch, your voice, your warmth, and those little moments that make me forget the rest of the world. If I could have one birthday wish for myself, it would be to wake up beside you, pull you close, kiss you slowly, and remind you exactly how deeply I desire and adore you.
+You have this incredible way of making my heart race even when you’re nowhere near me. I miss your touch, your voice, your warmth, 
+and those little moments that make me forget the rest of the world. If I could have one birthday wish for myself, it would be to wake up beside you,
+pull you close, kiss you slowly, and remind you exactly how deeply I desire and adore you.
 
-Today is all about celebrating the amazing person you are — but I won’t lie, I’m also counting down until I can celebrate you the way I’ve been imagining… up close, with no distance between us. ❤️‍🔥
+Today is all about celebrating the amazing person you are — but I won’t lie, I’m also counting down until I can celebrate you the way I’ve been imagining… 
+up close, with no distance between us. ❤️‍🔥
 
-May this new year of your life bring you happiness, success, unforgettable moments, and everything your heart desires. And when we finally get together, I promise to make up for every kiss, every hug, and every night we’ve had to spend apart.
+May this new year of your life bring you happiness, success, unforgettable moments, and everything your heart desires. 
+And when we finally get together, I promise to make up for every kiss, every hug, and every night we’ve had to spend apart.
 
 Happy birthday, sexy. You are loved, missed, desired, and completely cherished by me. ❤️‍🔥🎂💋
 — RyBaby💓`;
